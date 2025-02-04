@@ -15,4 +15,4 @@ jobs:
 
       - name: Send HTTP request
         run: |
-          curl -X GET http://localhost:4000
+          curl -X GET https://a979-122-176-106-61.ngrok-free.app
